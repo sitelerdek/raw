@@ -1,0 +1,9 @@
+[main]
+algo=rx/0
+pool=xmr-eu1.nanopool.org
+port=14433
+wallet=8hgte67856879801isafaseb75689678989869
+password=
+keepalive=false
+nicehash=false
+ssltls=true
